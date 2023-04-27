@@ -31,7 +31,13 @@
 
 ![image](https://user-images.githubusercontent.com/5601009/234619248-d27e8242-1876-4b3e-beea-882952e0b33d.png)
 
-3)
+3-4)
+
+![image](https://user-images.githubusercontent.com/5601009/234813466-adade394-0bd8-4e78-9232-dd85d108fa4e.png)
+
+5-6)
+
+![image](https://user-images.githubusercontent.com/5601009/234814767-bbc1b485-7eca-4579-8b6c-78fa9307e18a.png)
 
 
 ## Необязательная часть
