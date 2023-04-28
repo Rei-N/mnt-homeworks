@@ -23,24 +23,29 @@
 
 Ответ:
 
- 1)
+1.
 ![image](https://user-images.githubusercontent.com/5601009/234615556-6f0349d1-e40a-4e33-96ca-fe90c3da18ae.png)
 
- 2)
+2.
 ![image](https://user-images.githubusercontent.com/5601009/234619248-d27e8242-1876-4b3e-beea-882952e0b33d.png)
 
- 3-4)
+3-4.
 ![image](https://user-images.githubusercontent.com/5601009/234813466-adade394-0bd8-4e78-9232-dd85d108fa4e.png)
 
- 5-6)
+5-6.
 ![image](https://user-images.githubusercontent.com/5601009/234814767-bbc1b485-7eca-4579-8b6c-78fa9307e18a.png)
 
- 7)
+7.
 ![image](https://user-images.githubusercontent.com/5601009/234818393-7ff4611a-0db6-491c-9c4b-404570173940.png)
 
- 8)
+8.
 ![image](https://user-images.githubusercontent.com/5601009/234822683-cfe5ea34-c17a-47d1-b353-cc2719f400eb.png)
 
+9.
+![image](https://user-images.githubusercontent.com/5601009/235093500-124f3d16-fb81-4603-b296-d42452691e96.png)
+
+10-11.
+![image](https://user-images.githubusercontent.com/5601009/235094796-8ac36507-f94c-46d1-81af-1bc5be723dc1.png)
 
 
 ## Необязательная часть
