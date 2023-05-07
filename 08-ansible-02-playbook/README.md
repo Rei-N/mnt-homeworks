@@ -20,6 +20,18 @@
 9. Подготовьте README.md-файл по своему playbook. В нём должно быть описано: что делает playbook, какие у него есть параметры и теги.
 10. Готовый playbook выложите в свой репозиторий, поставьте тег `08-ansible-02-playbook` на фиксирующий коммит, в ответ предоставьте ссылку на него.
 
+Ответ:
+
+1.
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/5601009/236682719-1f6c9af9-e772-4749-8d2b-fc2b4854a1a1.png">
+
+2.
+<img width="548" alt="image" src="https://user-images.githubusercontent.com/5601009/236682776-e073aefd-6d64-4be6-9959-4f2da4535e78.png">
+
+3.
+
+
+
 ---
 
 ### Как оформить решение задания
