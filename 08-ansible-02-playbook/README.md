@@ -23,15 +23,35 @@
 Ответ:
 
 1.
+
 <img width="350" alt="image" src="https://user-images.githubusercontent.com/5601009/236682719-1f6c9af9-e772-4749-8d2b-fc2b4854a1a1.png">
 
-2.
+2-4.
+
 <img width="548" alt="image" src="https://user-images.githubusercontent.com/5601009/236682776-e073aefd-6d64-4be6-9959-4f2da4535e78.png">
 
-3.
+5.
 
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5601009/236688920-8ca3e43d-b98a-4665-9bb7-1715f40d48a0.png">
 
+6.
 
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/5601009/236690245-2dd3e5a0-e814-476c-8b5b-573e57931d30.png">
+
+7.
+
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/5601009/236690384-12462ff2-5a8d-4d3e-b4bf-c1b1a1786025.png">
+
+8.
+
+<img width="751" alt="image" src="https://user-images.githubusercontent.com/5601009/236690508-e0397f76-1238-4a22-8bb8-89e071e2892f.png">
+
+9.
+Параметры:
+1) Хендлеры - Старт сервисов clickhouse и vector
+2) Таски - Скачивание пакетов установки сервисов, установки пакетов, создание базы
+Тэги:
+clickhouse & vector
 ---
 
 ### Как оформить решение задания
